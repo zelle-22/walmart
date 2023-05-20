@@ -3,3 +3,6 @@ Apple
 Banana
 Lemon
 Carrot
+kiwi
+pineaple
+strawberry
