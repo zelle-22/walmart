@@ -6,5 +6,3 @@ Carrot
 kiwi
 pineaple
 strawberry
-pawpaw
-guava
