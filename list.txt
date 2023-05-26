@@ -6,3 +6,6 @@ Carrot
 kiwi
 pineaple
 strawberry
+Avacadovia
+cherries
+grapefruit
